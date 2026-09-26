@@ -1,0 +1,1 @@
+Place your final resume PDF in this folder and name it resume.pdf (the Download Resume button links to /resume.pdf).
